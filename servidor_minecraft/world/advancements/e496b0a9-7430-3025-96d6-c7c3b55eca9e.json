@@ -148,6 +148,18 @@
     },
     "done": true
   },
+  "spore:knight": {
+    "criteria": {
+      "hurt_by_infected": "2025-07-15 01:28:35 +0000"
+    },
+    "done": true
+  },
+  "spore:wendigo": {
+    "criteria": {
+      "hurt_infected": "2025-07-15 01:34:44 +0000"
+    },
+    "done": true
+  },
   "spore:griefer": {
     "criteria": {
       "hurt_by_infected": "2025-07-15 01:14:39 +0000"

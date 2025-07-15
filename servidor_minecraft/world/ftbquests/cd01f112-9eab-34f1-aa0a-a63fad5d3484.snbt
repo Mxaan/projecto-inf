@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "cd01f1129eab34f1aa0aa63fad5d3484"
+	name: "Trachito512#cd01f112"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

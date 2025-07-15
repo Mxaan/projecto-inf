@@ -1242,3 +1242,53 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [15Jul2025 01:28:06.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 has made the advancement [Meet the team]
 [15Jul2025 01:28:06.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 has made the advancement [Sir Arthur is that you ?]
 [15Jul2025 01:28:35.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ has made the advancement [Sir Arthur is that you ?]
+[15Jul2025 01:30:40.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ has succumbed to the infection
+[15Jul2025 01:31:45.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Da_wenstein[/127.76.39.111:45209] logged in with entity id 16071 at (-2.8160577703151946, 73.0, -53.644145810587084)
+[15Jul2025 01:31:46.010] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Da_wenstein
+[15Jul2025 01:31:46.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein joined the game
+[15Jul2025 01:31:46.058] [Server thread/INFO] [Jade/]: Syncing config to Da_wenstein (64b14d46-0a46-36e3-9493-5193a6069cc4)
+[15Jul2025 01:31:47.278] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Da_wenstein (18)
+[15Jul2025 01:31:47.278] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Da_wenstein
+[15Jul2025 01:32:19.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 has made the advancement [Stone Age]
+[15Jul2025 01:32:22.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ was fungi-fied by Phayres
+[15Jul2025 01:32:23.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 has made the advancement [How is it fair if they can fly ?!]
+[15Jul2025 01:32:26.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 was eaten alive by Phayres
+[15Jul2025 01:32:30.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Trachito512'/16686, l='ServerLevel[world]', x=-6.70, y=68.00, z=-52.30] died: Trachito512 was slain by Da_wenstein
+[15Jul2025 01:32:33.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein has made the advancement [Sir Arthur is that you ?]
+[15Jul2025 01:32:35.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ has succumbed to the infection
+[15Jul2025 01:32:35.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein was disemboweled by Knight
+[15Jul2025 01:32:39.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['Mxaan_'/16278, l='ServerLevel[world]', x=-26.02, y=3.69, z=-59.09] died: Mxaan_ suffocated in a wall
+[15Jul2025 01:33:48.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ was fungi-fied by Inquisitor
+[15Jul2025 01:34:01.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein forgot Inquisitor was a bioweapon
+[15Jul2025 01:34:29.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ was eaten alive by Inquisitor
+[15Jul2025 01:34:44.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ has made the advancement [Go back to Canada!]
+[15Jul2025 01:34:45.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ was fungi-fied by Wendigo
+[15Jul2025 01:34:51.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein was fungi-fied by Brotkatze
+[15Jul2025 01:34:51.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein has made the advancement [OW THAT WAS THAT SMELL!]
+[15Jul2025 01:35:02.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ was eaten alive by Wendigo
+[15Jul2025 01:35:07.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 was eaten alive by Inquisitor
+[15Jul2025 01:35:07.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 has made the advancement [The Spanish Inquisition is back!]
+[15Jul2025 01:35:19.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 was fungi-fied by Inquisitor
+[15Jul2025 01:35:19.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trachito512> -
+[15Jul2025 01:35:22.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein was disemboweled by Knight
+[15Jul2025 01:35:26.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 was fungi-fied by Inquisitor
+[15Jul2025 01:35:31.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein was eaten alive by Knight
+[15Jul2025 01:35:46.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ was shot by Phayres
+[15Jul2025 01:36:08.827] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Trachito512'/19881, l='ServerLevel[world]', x=-9.62, y=72.00, z=-42.64] died: Trachito512 was slain by Da_wenstein
+[15Jul2025 01:36:19.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['Mxaan_'/20960, l='ServerLevel[world]', x=-47.55, y=29.42, z=-47.55] died: Mxaan_ suffocated in a wall
+[15Jul2025 01:36:19.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ was fungi-fied by Brotkatze
+[15Jul2025 01:36:19.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ has made the advancement [OW THAT WAS THAT SMELL!]
+[15Jul2025 01:36:38.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein was slain by Mxaan_
+[15Jul2025 01:36:44.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ was eaten alive by Mxaan_
+[15Jul2025 01:37:30.131] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=35, y=62, z=-416} but found not block entity block Block{minecraft:water}[level=1] at location
+[15Jul2025 01:37:30.131] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=35, y=62, z=-416}
+[15Jul2025 01:37:33.543] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=15, y=62, z=-432} but found not block entity block Block{minecraft:water}[level=3] at location
+[15Jul2025 01:37:33.544] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=3] but failed at location BlockPos{x=15, y=62, z=-432}
+[15Jul2025 01:37:33.544] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=15, y=62, z=-426} but found not block entity block Block{minecraft:water}[level=4] at location
+[15Jul2025 01:37:33.544] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=4] but failed at location BlockPos{x=15, y=62, z=-426}
+[15Jul2025 01:37:33.660] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=17, y=62, z=-427} but found not block entity block Block{minecraft:water}[level=2] at location
+[15Jul2025 01:37:33.660] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=17, y=62, z=-427}
+[15Jul2025 01:38:07.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mxaan_> 14 63 -317
+[15Jul2025 01:38:32.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Da_wenstein'/17043, l='ServerLevel[world]', x=-23.78, y=62.97, z=61.96] died: Da_wenstein died
+[15Jul2025 01:39:04.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein was doomed to fall
+[15Jul2025 01:39:22.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 was slain by Phayres
