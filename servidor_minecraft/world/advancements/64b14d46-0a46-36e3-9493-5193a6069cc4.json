@@ -153,6 +153,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "pine_taiga": "2025-07-15 02:21:01 +0000",
       "blackwood_taiga": "2025-07-15 01:56:04 +0000",
       "bamboo_forest": "2025-07-15 01:48:54 +0000",
       "redwoods": "2025-07-15 01:51:44 +0000",
@@ -180,6 +181,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "pine_taiga": "2025-07-15 02:21:01 +0000",
       "blackwood_taiga": "2025-07-15 01:56:04 +0000",
       "bamboo_forest": "2025-07-15 01:48:54 +0000",
       "redwoods": "2025-07-15 01:51:44 +0000",

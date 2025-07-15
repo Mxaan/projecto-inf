@@ -207,17 +207,17 @@
     },
     "done": false
   },
-  "regions_unexplored:spelunker": {
-    "criteria": {
-      "redstone_caves": "2025-07-15 02:13:39 +0000",
-      "ancient_delta": "2025-07-15 02:12:31 +0000"
-    },
-    "done": false
-  },
   "regions_unexplored:got_wood": {
     "criteria": {
       "blackwood_log": "2025-07-15 01:57:21 +0000",
       "bamboo_log": "2025-07-15 01:52:48 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-07-15 02:13:39 +0000",
+      "ancient_delta": "2025-07-15 02:12:31 +0000"
     },
     "done": false
   },
