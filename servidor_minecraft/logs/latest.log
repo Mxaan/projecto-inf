@@ -1292,3 +1292,28 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [15Jul2025 01:38:32.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Da_wenstein'/17043, l='ServerLevel[world]', x=-23.78, y=62.97, z=61.96] died: Da_wenstein died
 [15Jul2025 01:39:04.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein was doomed to fall
 [15Jul2025 01:39:22.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 was slain by Phayres
+[15Jul2025 01:41:26.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein was impaled on a stalagmite
+[15Jul2025 01:41:36.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mxaan_'/17011, l='ServerLevel[world]', x=2.11, y=63.00, z=23.69] died: Mxaan_ was slain by Zombie
+[15Jul2025 01:44:30.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein was doomed to fall by Creeper
+[15Jul2025 01:44:42.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein was disemboweled by Knight
+[15Jul2025 01:45:17.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein has made the advancement [Pulsating Goober]
+[15Jul2025 01:45:43.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein was eaten alive by Inquisitor
+[15Jul2025 01:45:48.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein has made the advancement [Peter the horse is here]
+[15Jul2025 01:46:12.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein fell from a high place
+[15Jul2025 01:46:57.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein was eaten alive by Mxaan_
+[15Jul2025 01:47:06.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein was fungi-fied by Mxaan_
+[15Jul2025 01:48:21.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ has made the advancement [Peter the horse is here]
+[15Jul2025 01:48:23.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 has made the advancement [Peter the horse is here]
+[15Jul2025 01:48:59.243] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[15Jul2025 01:49:44.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ has succumbed to the infection
+[15Jul2025 01:49:59.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 has made the advancement [A broken reflection]
+[15Jul2025 01:50:05.845] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mxaan_'/36547, l='ServerLevel[world]', x=5.50, y=62.58, z=-444.87] died: Mxaan_ was slain by Trachito512
+[15Jul2025 01:50:09.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mxaan_ lost connection: Disconnected
+[15Jul2025 01:50:09.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ left the game
+[15Jul2025 01:50:09.631] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mxaan_
+[15Jul2025 01:50:28.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mxaan_[/127.51.142.211:55809] logged in with entity id 37385 at (-8.5, 71.0, -46.5)
+[15Jul2025 01:50:28.851] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Mxaan_
+[15Jul2025 01:50:28.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ joined the game
+[15Jul2025 01:50:28.903] [Server thread/INFO] [Jade/]: Syncing config to Mxaan_ (e496b0a9-7430-3025-96d6-c7c3b55eca9e)
+[15Jul2025 01:50:30.137] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mxaan_ (18)
+[15Jul2025 01:50:30.137] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mxaan_

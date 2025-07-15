@@ -7,8 +7,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sparse_jungle": "2025-07-15 01:49:44 +0000",
+      "minecraft:river": "2025-07-15 01:36:02 +0000",
       "minecraft:dripstone_caves": "2025-07-15 00:28:24 +0000",
-      "minecraft:forest": "2025-07-14 23:39:10 +0000"
+      "minecraft:forest": "2025-07-14 23:39:10 +0000",
+      "minecraft:plains": "2025-07-15 01:49:34 +0000"
     },
     "done": false
   },
@@ -148,6 +151,12 @@
     },
     "done": true
   },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "bamboo_forest": "2025-07-15 01:49:06 +0000"
+    },
+    "done": false
+  },
   "spore:knight": {
     "criteria": {
       "hurt_by_infected": "2025-07-15 01:28:35 +0000"
@@ -157,6 +166,24 @@
   "spore:wendigo": {
     "criteria": {
       "hurt_infected": "2025-07-15 01:34:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "bamboo_forest": "2025-07-15 01:49:06 +0000"
+    },
+    "done": false
+  },
+  "spore:nuclea": {
+    "criteria": {
+      "hurt_infected": "2025-07-15 01:48:21 +0000"
+    },
+    "done": true
+  },
+  "spore:brotkatze": {
+    "criteria": {
+      "hurt_by_infected": "2025-07-15 01:36:19 +0000"
     },
     "done": true
   },
