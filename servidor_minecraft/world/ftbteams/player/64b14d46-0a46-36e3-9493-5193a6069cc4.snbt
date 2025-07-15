@@ -1,0 +1,17 @@
+{
+	id: "64b14d46-0a46-36e3-9493-5193a6069cc4"
+	type: "player"
+	player_name: "Da_wenstein"
+	ranks: {
+		64b14d46-0a46-36e3-9493-5193a6069cc4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Da_wenstein"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5973FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

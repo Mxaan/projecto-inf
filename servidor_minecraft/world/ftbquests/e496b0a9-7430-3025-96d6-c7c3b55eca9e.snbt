@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "e496b0a97430302596d6c7c3b55eca9e"
+	name: "Mxaan_#e496b0a9"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

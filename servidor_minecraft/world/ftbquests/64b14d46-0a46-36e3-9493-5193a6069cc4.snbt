@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "64b14d460a4636e394935193a6069cc4"
+	name: "Da_wenstein#64b14d46"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

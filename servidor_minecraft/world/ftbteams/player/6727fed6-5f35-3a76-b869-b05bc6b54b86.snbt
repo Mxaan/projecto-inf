@@ -1,0 +1,17 @@
+{
+	id: "6727fed6-5f35-3a76-b869-b05bc6b54b86"
+	type: "player"
+	player_name: "luxxxar"
+	ranks: {
+		6727fed6-5f35-3a76-b869-b05bc6b54b86: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "luxxxar"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F3FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

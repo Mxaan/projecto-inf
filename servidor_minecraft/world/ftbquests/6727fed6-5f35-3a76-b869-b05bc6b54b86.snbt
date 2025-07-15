@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "6727fed65f353a76b869b05bc6b54b86"
+	name: "luxxxar#6727fed6"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
