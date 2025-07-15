@@ -48,6 +48,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-07-15 02:02:04 +0000",
       "apple": "2025-07-14 23:50:32 +0000",
       "bread": "2025-07-15 00:07:58 +0000",
       "rotten_flesh": "2025-07-15 00:26:49 +0000",
@@ -185,6 +186,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "blackwood_taiga": "2025-07-15 01:56:10 +0000",
       "rocky_meadow": "2025-07-15 01:52:13 +0000",
       "bamboo_forest": "2025-07-15 01:49:06 +0000",
       "redwoods": "2025-07-15 01:54:43 +0000",
@@ -194,6 +196,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "blackwood_taiga": "2025-07-15 01:56:10 +0000",
       "rocky_meadow": "2025-07-15 01:52:13 +0000",
       "bamboo_forest": "2025-07-15 01:49:06 +0000",
       "redwoods": "2025-07-15 01:54:43 +0000",
@@ -203,6 +206,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "blackwood_log": "2025-07-15 01:57:21 +0000",
       "bamboo_log": "2025-07-15 01:52:48 +0000"
     },
     "done": false

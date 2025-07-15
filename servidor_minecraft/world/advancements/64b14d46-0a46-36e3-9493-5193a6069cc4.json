@@ -153,6 +153,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "blackwood_taiga": "2025-07-15 01:56:04 +0000",
       "bamboo_forest": "2025-07-15 01:48:54 +0000",
       "redwoods": "2025-07-15 01:51:44 +0000",
       "lupine_plains": "2025-07-15 01:55:22 +0000"
@@ -173,6 +174,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "blackwood_taiga": "2025-07-15 01:56:04 +0000",
       "bamboo_forest": "2025-07-15 01:48:54 +0000",
       "redwoods": "2025-07-15 01:51:44 +0000",
       "lupine_plains": "2025-07-15 01:55:22 +0000"
@@ -188,6 +190,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "redwood_log": "2025-07-15 01:51:46 +0000",
+      "blackwood_log": "2025-07-15 01:57:21 +0000",
       "bamboo_log": "2025-07-15 01:48:56 +0000"
     },
     "done": false
