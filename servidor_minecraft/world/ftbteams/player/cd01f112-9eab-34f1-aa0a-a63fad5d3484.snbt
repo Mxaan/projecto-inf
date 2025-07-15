@@ -1,0 +1,17 @@
+{
+	id: "cd01f112-9eab-34f1-aa0a-a63fad5d3484"
+	type: "player"
+	player_name: "Trachito512"
+	ranks: {
+		cd01f112-9eab-34f1-aa0a-a63fad5d3484: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Trachito512"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F2FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

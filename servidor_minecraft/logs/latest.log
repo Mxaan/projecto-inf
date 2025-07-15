@@ -1232,3 +1232,13 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [15Jul2025 01:14:39.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ has made the advancement [Funny explosion meme]
 [15Jul2025 01:14:40.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ was eaten alive by Infected Villager
 [15Jul2025 01:18:31.959] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['luxxxar'/1974, l='ServerLevel[world]', x=-31.55, y=9.80, z=24.45] died: luxxxar drowned
+[15Jul2025 01:26:23.768] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Trachito512[/127.161.165.200:59009] logged in with entity id 11274 at (-6.5, 73.0, -39.5)
+[15Jul2025 01:26:23.785] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Trachito512
+[15Jul2025 01:26:23.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 joined the game
+[15Jul2025 01:26:23.853] [Server thread/INFO] [Jade/]: Syncing config to Trachito512 (cd01f112-9eab-34f1-aa0a-a63fad5d3484)
+[15Jul2025 01:26:28.328] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Trachito512 (18)
+[15Jul2025 01:26:28.329] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Trachito512
+[15Jul2025 01:27:04.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ was doomed to fall
+[15Jul2025 01:28:06.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 has made the advancement [Meet the team]
+[15Jul2025 01:28:06.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 has made the advancement [Sir Arthur is that you ?]
+[15Jul2025 01:28:35.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ has made the advancement [Sir Arthur is that you ?]
