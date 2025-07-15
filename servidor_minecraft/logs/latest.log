@@ -1344,3 +1344,6 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [15Jul2025 02:27:19.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mxaan_ lost connection: Disconnected
 [15Jul2025 02:27:19.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ left the game
 [15Jul2025 02:27:19.970] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mxaan_
+[15Jul2025 02:33:52.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Da_wenstein lost connection: Disconnected
+[15Jul2025 02:33:52.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein left the game
+[15Jul2025 02:33:52.512] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Da_wenstein
