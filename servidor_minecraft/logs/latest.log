@@ -1317,3 +1317,10 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [15Jul2025 01:50:28.903] [Server thread/INFO] [Jade/]: Syncing config to Mxaan_ (e496b0a9-7430-3025-96d6-c7c3b55eca9e)
 [15Jul2025 01:50:30.137] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mxaan_ (18)
 [15Jul2025 01:50:30.137] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mxaan_
+[15Jul2025 01:52:12.298] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[15Jul2025 01:53:30.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 has made the advancement [Getting an Upgrade]
+[15Jul2025 01:55:00.249] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id shy_guy:shy_guy
+[15Jul2025 01:55:35.110] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[15Jul2025 01:55:44.376] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[15Jul2025 01:56:53.462] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[15Jul2025 01:56:53.544] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
