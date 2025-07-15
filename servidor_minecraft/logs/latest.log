@@ -1324,3 +1324,20 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [15Jul2025 01:55:44.376] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
 [15Jul2025 01:56:53.462] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
 [15Jul2025 01:56:53.544] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[15Jul2025 02:11:23.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 has made the advancement [Acquire Hardware]
+[15Jul2025 02:13:48.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Da_wenstein has made the advancement [Not Today, Thank You]
+[15Jul2025 02:14:39.054] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id shy_guy:shy_guy
+[15Jul2025 02:15:57.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Trachito512 lost connection: Timed out
+[15Jul2025 02:15:57.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trachito512 left the game
+[15Jul2025 02:15:57.012] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Trachito512
+[15Jul2025 02:15:57.061] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Jul2025 02:19:28.615] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mxaan_ lost connection: Disconnected
+[15Jul2025 02:19:28.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ left the game
+[15Jul2025 02:19:28.616] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mxaan_
+[15Jul2025 02:19:31.809] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@620b72bb[id=<null>,name=Mxaan_,properties={},legacy=false] (/127.51.142.211:40023) lost connection: Disconnected
+[15Jul2025 02:19:37.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mxaan_[/127.51.142.211:55643] logged in with entity id 45553 at (-13.330180910776296, 106.0, -724.3923275101141)
+[15Jul2025 02:19:37.637] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Mxaan_
+[15Jul2025 02:19:37.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mxaan_ joined the game
+[15Jul2025 02:19:37.683] [Server thread/INFO] [Jade/]: Syncing config to Mxaan_ (e496b0a9-7430-3025-96d6-c7c3b55eca9e)
+[15Jul2025 02:19:38.560] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mxaan_ (18)
+[15Jul2025 02:19:38.560] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mxaan_

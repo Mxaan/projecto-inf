@@ -45,6 +45,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-07-15 02:09:41 +0000",
       "mutton": "2025-07-15 01:54:56 +0000",
       "bread": "2025-07-15 01:29:18 +0000"
     },
@@ -136,6 +137,12 @@
   "regions_unexplored:parent": {
     "criteria": {
       "load_in_world": "2025-07-15 01:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-15 02:11:23 +0000"
     },
     "done": true
   },

@@ -11,6 +11,7 @@
       "minecraft:river": "2025-07-15 01:36:02 +0000",
       "minecraft:dripstone_caves": "2025-07-15 00:28:24 +0000",
       "minecraft:forest": "2025-07-14 23:39:10 +0000",
+      "minecraft:lush_caves": "2025-07-15 02:12:22 +0000",
       "minecraft:savanna": "2025-07-15 01:51:47 +0000",
       "minecraft:plains": "2025-07-15 01:49:34 +0000"
     },
@@ -196,11 +197,20 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "ancient_delta": "2025-07-15 02:12:31 +0000",
+      "redstone_caves": "2025-07-15 02:13:39 +0000",
       "blackwood_taiga": "2025-07-15 01:56:10 +0000",
       "rocky_meadow": "2025-07-15 01:52:13 +0000",
       "bamboo_forest": "2025-07-15 01:49:06 +0000",
       "redwoods": "2025-07-15 01:54:43 +0000",
       "lupine_plains": "2025-07-15 01:54:50 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-07-15 02:13:39 +0000",
+      "ancient_delta": "2025-07-15 02:12:31 +0000"
     },
     "done": false
   },

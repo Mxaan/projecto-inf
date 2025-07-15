@@ -166,6 +166,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-15 02:13:48 +0000"
+    },
+    "done": true
+  },
   "spore:mound": {
     "criteria": {
       "hurt_infected": "2025-07-15 01:45:17 +0000"
